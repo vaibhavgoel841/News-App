@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- This is used for statusbar color. -->
+        <item name="colorPrimaryDark">@android:color/black</item>
+        <item name="colorPrimary">@android:color/darker_gray</item>
+<item name="android:colorForeground">@android:color/white</item>
+        <!-- This is used for statusbar content color. If statusbarColor is light, use "true" otherwise use "false"-->
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
